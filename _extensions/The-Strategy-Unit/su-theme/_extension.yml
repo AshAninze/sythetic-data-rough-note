@@ -12,4 +12,5 @@ contributes:
       slide-number: false
       auto-animate: true
       footer: |
-        view slides at [the-strategy-unit.github.io/data_science/presentations][ds_presentations]
+        #view slides at [the-strategy-unit.github.io/data_science/presentations][ds_presentations]
+        Presentation not yet publicly available.
