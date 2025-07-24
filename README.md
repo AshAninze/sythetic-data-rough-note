@@ -4,9 +4,8 @@
 
 This repository contains the ongoing work for an internship project focused on exploring and developing **synthetic data generation techniques** for the New Hospital Programme (NHP) demand prediction model. The primary goal is to address the challenge of data accessibility and privacy, enabling the NHP's open-source model to be truly reproducible, shareable, and evaluable without compromising sensitive real patient data.
 
-The project also specifically investigates how synthetic data can be leveraged to **mitigate potential biases** within healthcare datasets, aiming for a more equitable and fair representation of patient populations in the generated data.
 
-The project's key findings and methodological insights are documented through **Quarto**, utilizing the **NHS Strategy Unit (SU) Presentation Theme** for a structured and visually consistent presentation of the work.
+The project's key findings and methodological insights are documented through **Quarto**, utilising the **NHS Strategy Unit (SU) Presentation Theme** for a structured and visually consistent presentation of the work.
 
 ## Problem Statement
 
