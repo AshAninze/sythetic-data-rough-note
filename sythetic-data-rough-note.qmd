@@ -42,7 +42,7 @@ format: su-theme-revealjs
 * Without these, models trained on current artificial data would be inaccurate.
 * Obstacle to identifying which patients are candidates for a mitigator.
 
-##The Consequence 
+## The Consequence 
 
 * The **inability to simulate real-world** interventions makes the output for demand prediction **unreliable** and **invalid**. 
 
