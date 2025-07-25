@@ -49,7 +49,7 @@ To explore this project locally:
     Ensure Quarto is installed by following the instructions on the official [Quarto website](https://quarto.org/docs/get-started/).
 3.  **Render the scoping document:**
     ```bash
-    quarto render sythetic-data-rough-note.qmd
+    quarto render synthetic-data-rough-note.qmd
     ```
     This will generate the final output, an HTML file.
 
