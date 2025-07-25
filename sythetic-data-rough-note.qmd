@@ -2,7 +2,7 @@
 title: "Synthetic Data for the NHP Model"
 subtitle: "An Internship Project at The Strategy Unit, NHS"
 author: "[Ashionye Aninze](mailto:ashionye.aninze@nhs.net)"
-date: 2025-07-24 # Current date based on your timestamp
+date: 2025-07-24 
 date-format: "MMM D, YYYY"
 format: su-theme-revealjs
 ---
@@ -40,18 +40,10 @@ format: su-theme-revealjs
 
 * NHP model relies on multivariate relationships for accurate demand prediction.
 * Without these, models trained on current artificial data would be inaccurate.
-* Hindrance to identifying and addressing health inequalities in the model.
+* Obstacle to identifying which patients are candidates for a mitigator.
 
-```{python}
-#| echo: true
-#| output: true
+##The Consequence 
 
-import pandas as pd
-import numpy as np
+* The **inability to simulate real-world** interventions makes the output for demand prediction **unreliable** and **invalid**. 
 
-# Placeholder for your data loading and initial analysis
-# Example: Display a correlation matrix if you have a sample
-# data = pd.read_csv("your_synthetic_data_sample.csv")
-# print(data.corr())
 
-print("Future code for data analysis and PoCs will go here.")
