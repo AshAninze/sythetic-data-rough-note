@@ -26,7 +26,7 @@ To explore this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AshAninze/sythetic-data-rough-note.git](https://github.com/AshAninze/sythetic-data-rough-note.git)
+    git clone https://github.com/AshAninze/sythetic-data-rough-note.git
     cd sythetic-data-rough-note
     ```
 2.  **Install Quarto:**
