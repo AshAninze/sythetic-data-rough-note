@@ -32,7 +32,7 @@ This project aims to:
 ├── .gitignore                                  # Git ignore rules
 ├── _quarto.yml                                 # Main Quarto project configuration
 ├── README.md                                   # This overview document
-└── sythetic-data-rough-note.qmd                # The primary Quarto document/report
+└── synthetic-data-rough-note.qmd                # The primary Quarto document/report
 
 ```
 
@@ -42,8 +42,8 @@ To explore this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AshAninze/sythetic-data-rough-note.git
-    cd sythetic-data-rough-note
+    git clone https://github.com/AshAninze/synthetic-data-rough-note.git
+    cd synthetic-data-rough-note
     ```
 2.  **Install Quarto:**
     Ensure Quarto is installed by following the instructions on the official [Quarto website](https://quarto.org/docs/get-started/).
