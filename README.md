@@ -1,4 +1,4 @@
-# NHP Synthetic Data Project: Scoping & Proof of Concept
+# NHP Synthetic Data Project: Scoping & Presentation
 
 ## Project Overview
 
