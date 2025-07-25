@@ -84,3 +84,12 @@ ENV/
 env.bak/
 venv.bak/
 /.quarto/
+
+# Quarto files to ignore
+.quarto/
+*.html
+*.pdf
+*_files/
+
+# Python files to ignore
+*.pyc
